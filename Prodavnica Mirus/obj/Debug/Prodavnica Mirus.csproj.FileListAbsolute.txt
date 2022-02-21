@@ -1,0 +1,15 @@
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica Mirus.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica_Mirus.Form1.resources
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica_Mirus.Properties.Resources.resources
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica Mirus.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica Mirus.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\bin\Debug\Prodavnica.accdb
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\bin\Debug\Prodavnica Mirus.exe.config
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\bin\Debug\Prodavnica Mirus.exe
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\bin\Debug\Prodavnica Mirus.pdb
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica Mirus.exe
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica Mirus.pdb
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica_Mirus.Form2.resources
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica_Mirus.Form2NoviProizvod.resources
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica_Mirus.Form2Racuni.resources
+C:\Users\vladi\Desktop\Prodavnica Mirus\Prodavnica Mirus\obj\Debug\Prodavnica_Mirus.Form2ProdajaProizvoda.resources
